@@ -1,0 +1,42 @@
+{
+    "id": "caxias",
+    "date": "2017-10-21",
+    "city": "Caxias",
+    "institution": {
+        "courses": [
+            {
+                "name": "Analise e Desenvolvimento de Sistemas",
+                "url": "https://www.ftec.com.br/graduacao/curso/Analise-e-Desenvolvimento-de-Sistemas"
+            }
+        ],
+        "long_name": "UNIFTEC Caxias do Sul",
+        "short_name": "UNIFTEC",
+        "address": "Rua Gustavo Ramos Sehbe, 107 - Cinquentenário, Caxias do Sul",
+        "url": "https://www.ftec.com.br/",
+        "logo": "UNIFTEC.png",
+        "latitude": -29.1739539,
+        "longitude": -51.2195097
+    },
+    "sponsors": [
+    ],
+    "support": [
+    ],
+    "rooms" : [
+        { "number": "1", "subject": "" },
+        { "number": "2", "subject": "" },
+        { "number": "3", "subject": "" },
+        { "number": "4", "snebject": "" }
+    ],
+    "callForPapers": {
+        "url": "https://goo.gl/forms/EsxSP750r4O3TMVN2",
+        "deadline": "2017-09-17",
+        "start": "2017-08-25"
+    },  
+    "enrollment": {
+        "start": "2017-09-21",
+        "deadline": "2017-10-20",
+        "url": " ",
+        "availability": 200,
+        "closed": false
+    }   
+}
