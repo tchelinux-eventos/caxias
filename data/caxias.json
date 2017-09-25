@@ -33,14 +33,14 @@
         {
             "long_name": "Plenatech",
             "short_name": "Plenatech",
-            "logo": "gruppen.png",
-            "url": "https://www.gruppen.com.br"
+            "logo": "prenateck.png",
+            "url": "http://plenatech.com.br"
         },
         {
-            "long_name": "Integrasul",
-            "short_name": "Integrasul",
-            "logo": "integrasul.png",
-            "url": "http://integrasul.com.br/"
+            "long_name": "Gruppen",
+            "short_name": "Gruppen",
+            "logo": "gruppen.png",
+            "url": "https://www.gruppen.com.br"
         }
     ],
     "support": [
