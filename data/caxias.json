@@ -11,15 +11,45 @@
         ],
         "long_name": "UNIFTEC Caxias do Sul",
         "short_name": "UNIFTEC",
-        "address": "Rua Gustavo Ramos Sehbe, 107 - Cinquentenário, Caxias do Sul",
+        "address": "Bloco D - Arquitetura e Design<br/>Rua Gustavo Ramos Sehbe, 107<br/>Cinquentenário, Caxias do Sul",
         "url": "https://www.ftec.com.br/",
         "logo": "UNIFTEC.png",
         "latitude": -29.1739539,
         "longitude": -51.2195097
     },
     "sponsors": [
+        {
+            "long_name": "Integrasul",
+            "short_name": "Integrasul",
+            "logo": "integrasul.png",
+            "url": "http://integrasul.com.br/"
+        },
+        {
+            "long_name": "Flexxo Capacitação em TI",
+            "short_name": "Flexxo",
+            "logo": "flexxo.png",
+            "url": "http://www.flexxo.com.br/Caxias+do+Sul/home"
+        },
+        {
+            "long_name": "Plenatech",
+            "short_name": "Plenatech",
+            "logo": "gruppen.png",
+            "url": "https://www.gruppen.com.br"
+        },
+        {
+            "long_name": "Integrasul",
+            "short_name": "Integrasul",
+            "logo": "integrasul.png",
+            "url": "http://integrasul.com.br/"
+        }
     ],
     "support": [
+        {
+            "long_name": "Trino Polo",
+            "short_name": "Trino Polo",
+            "logo": "trionpolo.png",
+            "url": "http://www.trinopolo.com.br/"
+        }
     ],
     "rooms" : [
         { "number": "1", "subject": "" },
@@ -29,14 +59,14 @@
     ],
     "callForPapers": {
         "url": "https://goo.gl/forms/EsxSP750r4O3TMVN2",
-        "deadline": "2017-09-17",
+        "deadline": "2017-09-24",
         "start": "2017-08-25"
     },  
     "enrollment": {
         "start": "2017-09-21",
         "deadline": "2017-10-20",
-        "url": " ",
+        "url": "",
         "availability": 200,
         "closed": false
-    }   
+    }
 }
