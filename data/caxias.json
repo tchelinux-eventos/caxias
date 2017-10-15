@@ -33,7 +33,7 @@
         {
             "long_name": "Plenatech",
             "short_name": "Plenatech",
-            "logo": "prenatech.png",
+            "logo": "plenatech.png",
             "url": "http://plenatech.com.br"
         },
         {
@@ -71,7 +71,7 @@
     "enrollment": {
         "start": "2017-09-21",
         "deadline": "2017-10-20",
-        "url": "https://goo.gl/forms/Zl31yOjEmF63qJ702",
+        "url": "https://goo.gl/forms/gllwyIN6nj7va1WE2",
         "availability": 200,
         "closed": false
     }
