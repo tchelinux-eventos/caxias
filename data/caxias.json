@@ -41,6 +41,12 @@
             "short_name": "Gruppen",
             "logo": "gruppen.png",
             "url": "https://www.gruppen.com.br"
+        },
+        {
+            "long_name": "Crespi DB",
+            "short_name": "Crespi DB",
+            "logo": "crespidb.png",
+            "url": "https://www.crespidb.com.br"
         }
     ],
     "support": [
