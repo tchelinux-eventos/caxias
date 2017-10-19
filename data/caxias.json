@@ -41,12 +41,6 @@
             "short_name": "Gruppen",
             "logo": "gruppen.png",
             "url": "https://www.gruppen.com.br"
-        },
-        {
-            "long_name": "Crespi DB",
-            "short_name": "Crespi DB",
-            "logo": "crespidb.png",
-            "url": "https://www.crespidb.com.br"
         }
     ],
     "support": [
@@ -58,10 +52,10 @@
         }
     ],
     "rooms" : [
-        { "number": "1", "subject": "" },
-        { "number": "2", "subject": "" },
-        { "number": "3", "subject": "" },
-        { "number": "4", "snebject": "" }
+        { "number": "D-02", "subject": "Projetos e Empreendedorismo" },
+        { "number": "D-08", "subject": "Cloud e Big Data" },
+        { "number": "D-04", "subject": "Desenvolvimento" },
+        { "number": "D-03", "subject": "Embarcados" }
     ],
     "callForPapers": {
         "url": "https://goo.gl/forms/EsxSP750r4O3TMVN2",
