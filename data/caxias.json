@@ -17,6 +17,12 @@
         "latitude": -29.1739539,
         "longitude": -51.2195097
     },
+    "result": {
+        "donations": "130",
+        "attendants": "120",
+        "speaches": "16",
+        "speakers": "13"
+    },
     "sponsors": [
         {
             "long_name": "Integrasul",
