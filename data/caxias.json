@@ -1,78 +1,35 @@
 {
     "id": "caxias",
-    "date": "2017-10-21",
-    "city": "Caxias",
+    "date": "2018-08-08",
+    "city": "Caxias do Sul",
     "institution": {
-        "courses": [
-            {
-                "name": "Analise e Desenvolvimento de Sistemas",
-                "url": "https://www.ftec.com.br/graduacao/curso/Analise-e-Desenvolvimento-de-Sistemas"
-            }
-        ],
-        "long_name": "UNIFTEC Caxias do Sul",
-        "short_name": "UNIFTEC",
-        "address": "Bloco D - Arquitetura e Design<br/>Rua Gustavo Ramos Sehbe, 107<br/>Cinquentenário, Caxias do Sul",
-        "url": "https://www.ftec.com.br/",
-        "logo": "UNIFTEC.png",
-        "latitude": -29.1739539,
-        "longitude": -51.2195097
+        "courses": [],
+        "long_name": "Universidade de Caxias do Sul",
+        "short_name": "UCS",
+        "address": "Campus-Sede<br/>Rua Francisco Getúlio Vargas, 1130",
+        "url": "https://www.ucs.br/site",
+        "logo": "ucs.png",
+        "latitude": -29.1614288,
+        "longitude": -51.1533942
     },
-    "result": {
-        "donations": "130",
-        "attendants": "120",
-        "speaches": "16",
-        "speakers": "13"
-    },
-    "sponsors": [
-        {
-            "long_name": "Integrasul",
-            "short_name": "Integrasul",
-            "logo": "integrasul.png",
-            "url": "http://integrasul.com.br/"
-        },
-        {
-            "long_name": "Flexxo Capacitação em TI",
-            "short_name": "Flexxo",
-            "logo": "flexxo.png",
-            "url": "http://www.flexxo.com.br/Caxias+do+Sul/home"
-        },
-        {
-            "long_name": "Plenatech",
-            "short_name": "Plenatech",
-            "logo": "plenatech.png",
-            "url": "http://plenatech.com.br"
-        },
-        {
-            "long_name": "Gruppen",
-            "short_name": "Gruppen",
-            "logo": "gruppen.png",
-            "url": "https://www.gruppen.com.br"
-        }
-    ],
-    "support": [
-        {
-            "long_name": "Trino Polo",
-            "short_name": "Trino Polo",
-            "logo": "trinopolo.png",
-            "url": "http://www.trinopolo.com.br/"
-        }
-    ],
+    "sponsors": [],
+    "support": [],
     "rooms" : [
-        { "number": "D-02", "subject": "Projetos e Empreendedorismo" },
-        { "number": "D-08", "subject": "Cloud e Big Data" },
-        { "number": "D-04", "subject": "Desenvolvimento" },
-        { "number": "D-03", "subject": "Embarcados" }
+        { "number": "1", "subject": "" },
+        { "number": "2", "subject": "" },
+        { "number": "3", "subject": "" },
+        { "number": "4", "snebject": "" }
     ],
     "callForPapers": {
-        "url": "https://goo.gl/forms/EsxSP750r4O3TMVN2",
-        "deadline": "2017-09-24",
-        "start": "2017-08-25"
+        "url": "https://goo.gl/forms/YmWFzlaxGirK8dlE2",
+        "deadline": "2018-07-07",
+        "notification": "2018-07-10"
     },  
     "enrollment": {
-        "start": "2017-09-21",
-        "deadline": "2017-10-20",
-        "url": "https://goo.gl/forms/gllwyIN6nj7va1WE2",
-        "availability": 200,
+        "start": "2018-07-07",
+        "deadline": "2018-08-07",
+        "url": "",
+        "availability": 250,
         "closed": false
     }
 }
