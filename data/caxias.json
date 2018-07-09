@@ -14,10 +14,11 @@
     "sponsors": [],
     "support": [],
     "rooms" : [
-        { "number": "1", "subject": "" },
-        { "number": "2", "subject": "" },
-        { "number": "3", "subject": "" },
-        { "number": "4", "snebject": "" }
+        { "number": "1", "subject": "Desenvolvimento" },
+        { "number": "2", "subject": "DevOps e Cloud" },
+        { "number": "3", "subject": "Segurança, SysAdmin e Kernel" },
+        { "number": "4", "subject": "Big Data, IoT e Tópicos Emergentes" },
+        { "number": "5", "subject": "Carreira, Empreendedorismo e Comunidade" }
     ],
     "callForPapers": {
         "url": "https://goo.gl/forms/YmWFzlaxGirK8dlE2",
@@ -25,10 +26,10 @@
         "notification": "2018-07-10"
     },  
     "enrollment": {
-        "start": "2018-07-14",
+        "start": "2018-07-07",
         "deadline": "2018-08-17",
-        "url": "",
-        "availability": 250,
+        "url": "https://goo.gl/forms/93qJKHUMP37Sj8bN2",
+        "availability": 300,
         "closed": false
     }
 }
