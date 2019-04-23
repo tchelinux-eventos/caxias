@@ -242,6 +242,7 @@ Todos sabem que a pressa é inimiga da perfeição, mas não adianta deixar aspe
 
 ### Patrocínio
 
+[![Cosmun Softwares](images/logo_cosmun.png)](https://www.cosmunsoftwares.com.br/)
 
 ### Divulgação
 
