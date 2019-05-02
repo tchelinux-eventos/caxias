@@ -24,9 +24,9 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 | **9:30** |  [**Como aprender python partindo do zero usando apenas recursos online e livros**](#Como_aprender_python_partindo_do_zero_usando_apenas_recursos_online_e_livros) <br> <span class="label label-success">Principiante</span> <br> Adriano Margarin |  [**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |  [**Sistemas Embarcados e Buildroot**](#Sistemas_Embarcados_e_Buildroot) <br> <span class="label label-success">Principiante</span> <br> Renato Severo | 
 | **10:20** |  [**Desenvolvendo Jogos com Pygame**](#Desenvolvendo_Jogos_com_Pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Guterres Jeffman |  [**oVirt uma solução de virtualização distribuída opensource**](#oVirt_uma_solução_de_virtualização_distribuída_opensource) <br> <span class="label label-success">Principiante</span> <br> Daniel Lara |  [**Micropython para IoT**](#Micropython_para_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Fabio Utzig | 
-| **11:10** |  [**Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic**](#Introdução_ao_Spring_Boot_MVC_no_Java_Servlet_Stack_com_a_aplicação_Pet_Clinic) <br> <span class="label label-success">Principiante</span> <br> Marco Aurélio Souza Mangan |  [**Poder do Ansible**](#Poder_do_Ansible) <br> <span class="label label-warning">Intermediário</span> <br> Marcus Burghardt |  [**Como ter sucesso com software livre**](#Como_ter_sucesso_com_software_livre) <br> <span class="label label-success">Principiante</span> <br> Cristiano dos Santos Diedrich | 
+| **11:10** |  [**Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic**](#Introdução_ao_Spring_Boot_MVC_no_Java_Servlet_Stack_com_a_aplicação_Pet_Clinic) <br> <span class="label label-success">Principiante</span> <br> Marco Aurélio Souza Mangan |  [**Uma Não-Gentil Introdução ao Stream Processing**](#Uma_Não-Gentil_Introdução_ao_Stream_Processing) <br> <span class="label label-warning">Intermediário</span> <br> Julio Biason  |  [**Como ter sucesso com software livre**](#Como_ter_sucesso_com_software_livre) <br> <span class="label label-success">Principiante</span> <br> Cristiano dos Santos Diedrich | 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
-| **13:30** |  [**Uma Não-Gentil Introdução ao Stream Processing**](#Uma_Não-Gentil_Introdução_ao_Stream_Processing) <br> <span class="label label-warning">Intermediário</span> <br> Julio Biason |  [**DevOps - Passado, Presente e Futuro**](#DevOps_-_Passado,_Presente_e_Futuro) <br> <span class="label label-warning">Intermediário</span> <br> Cristiano dos Santos Diedrich |  [**A tecnologia no futuro e nas mãos de quem ela estará**](#A_tecnologia_no_futuro_e_nas_mãos_de_quem_ela_estará) <br> <span class="label label-success">Principiante</span> <br> Jaqueline Trevizan, Neiva Kuyven e Alexandra Cemin | 
+| **13:30** |  [**Reactive Microservices: Event driven architecture**](#Reactive_Microservices:_Event_driven_architecture) <br> <span class="label label-warning">Intermediário</span> <br> Gilherme Kuhn |  [**DevOps - Passado, Presente e Futuro**](#DevOps_-_Passado,_Presente_e_Futuro) <br> <span class="label label-warning">Intermediário</span> <br> Cristiano dos Santos Diedrich |  [**A tecnologia no futuro e nas mãos de quem ela estará**](#A_tecnologia_no_futuro_e_nas_mãos_de_quem_ela_estará) <br> <span class="label label-success">Principiante</span> <br> Jaqueline Trevizan, Neiva Kuyven e Alexandra Cemin | 
 | **14:20** |  [**Desenvolvendo APIs com PHP7 e Zend Expressive**](#Desenvolvendo_APIs_com_PHP7_e_Zend_Expressive) <br> <span class="label label-warning">Intermediário</span> <br> Er Galvão Abbott |  [**Iniciando com Kubernetes**](#Iniciando_com_Kubernetes) <br> <span class="label label-success">Principiante</span> <br> Cristhian Bicca |  [**Implementando um Ransomware em Shell Script**](#Implementando_um_Ransomware_em_Shell_Script) <br> <span class="label label-warning">Intermediário</span> <br> Edson Dino Salvati |
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** |  [**Flutter - Uma nova era**](#Flutter_-_Uma_nova_era) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |  [**Disponibilização de Serviços em IPv6 na UCS - Um Caso Prático**](#Disponibilização_de_Serviços_em_IPv6_na_UCS_-_Um_Caso_Prático) <br> <span class="label label-warning">Intermediário</span> <br> Jerônimo Zucco |  [**Ferramentas OpenSource Essenciais Para Um Ethical Hacker**](#Ferramentas_OpenSource_Essenciais_Para_Um_Ethical_Hacker) <br> <span class="label label-warning">Intermediário</span> <br> Mateus Buogo | 
@@ -97,17 +97,13 @@ Uma aplicação Web é um sistema distribuído de alta complexidade. Diversos fr
 
 [Marco Aurélio Souza Mangan](https://github.com/masmangan) é Graduado (1995) e Mestre (1998) em Ciência da Computação pelo Instituto de Informática/UFRGS e doutorado em Engenharia de Sistemas e Computação pelo PESC/UFRJ (2006). Atualmente é professor da Escola Politécnica/PUCRS. Os principais interesses são ensino, teoria e prática de desenvolvimento de software.
 
-### Poder do Ansible 
+### Uma Não-Gentil Introdução ao Stream Processing 
 
-Mostrarei os conceitos essenciais de Ansible, com algumas demonstrações do que ele pode fazer já com alguns ambientes mais complexos e como podemos aumentar a eficiência do nosso trabalho nesse mundo de DevOps.
+Stream Processing é uma área nova, irmã mais nova do Batch Processing e ambos são utilizados para geração de dados "read ready" em Big Data. Nesta apresentação, iremos ver como batch processing e stream processing se encaixam no processamento de big data e algumas dicas de como um pipeline deve ser construído.
 
-### Marcus Burghardt 
+### Julio Biason 
 
-[Marcus Burghardt](https://www.linkedin.com/in/marcusburghardt/) é Tecnologo em Redes de Computadores, especialista em Segurança da Informação com cerca de 15 anos de experiência em Testes de Invasão, Engenharia Social, Contra-espionagem, localização e correção de vulnerabilidades em softwares e aplicações, elaboração de políticas de Segurança da Informação e Treinamentos Avançados de Segurança e Infraestrutura.
-
-Certificações em diversas tecnologias, nas Áreas de Segurança da Informação, Redes, Virtualização, Cloud, Midleware, Governança de TI, Linux, Windows, DevOps, Gerencimento de Infraestruturas em larga escala, Performance Tuning, Hardening, etc. Experiência prática e aprofundada em todas essas áreas.
-
-Instrutor e examinador oficial da Red Hat no Brasil, professor em cursos de Pós-Graduação em Segurança da Informação e Diretor da MBSEC Segurança da Informação
+[Julio Biason](https://functional.cafe/@juliobiason) é Desenvolvedor desde os 12 anos e trabalhou com stream processing durante um ano.
 
 ### Como ter sucesso com software livre 
 
@@ -117,13 +113,13 @@ Ao longo de sua vida, quantas vezes você sentiu que havia conquistado o sucesso
 
 [Cristiano dos Santos Diedrich](https://www.mundodocker.com.br) é entusiasta Open Source, se meu principal foco é ir atrás de ideias novas e torna-las realidade através de soluções simples e eficientes. É organizador do Meetup Docker Porto Alegre, Meetup DevOps/SRE Porto Alegre e DevOpsDays Porto Alegre.
 
-### Uma Não-Gentil Introdução ao Stream Processing 
+### Reactive Microservices: Event driven architecture
 
-Stream Processing é uma área nova, irmã mais nova do Batch Processing e ambos são utilizados para geração de dados "read ready" em Big Data. Nesta apresentação, iremos ver como batch processing e stream processing se encaixam no processamento de big data e algumas dicas de como um pipeline deve ser construído.
+Nesta apresentação veremos a implementação da comunicação assincrona entre microserviços atravpes de um bus de eventos desenvolvido em Golang.
 
-### Julio Biason 
+### Guilherme Kuhn
 
-[Julio Biason](https://functional.cafe/@juliobiason) é Desenvolvedor desde os 12 anos e trabalhou com stream processing durante um ano.
+[Guilherme Kuhn](https://github.com/gkuhn1) é Engenheiro de Sistemas formado pela Universidade de Caxias do Sul com especialização em Gestão de Projetos de TI pela Westcliff University em Irvine na California. Especialista em arquitetura de microserviços, comunicação assincrona e sistemas altamente escaláveis. Atualmente é Engenheiro de Sistemas na Hallmark Labs em Santa Monica, California.
 
 ### DevOps - Passado, Presente e Futuro
 
