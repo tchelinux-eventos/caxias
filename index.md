@@ -23,7 +23,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 | **9:30** |  [**Como aprender python partindo do zero usando apenas recursos online e livros**](#Como_aprender_python_partindo_do_zero_usando_apenas_recursos_online_e_livros) <br> <span class="label label-success">Principiante</span> <br> Adriano Margarin |  [**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |  [**Sistemas Embarcados e Buildroot**](#Sistemas_Embarcados_e_Buildroot) <br> <span class="label label-success">Principiante</span> <br> Renato Severo | 
-| **10:20** |  [**Desenvolvendo Jogos com Pygame**](#Desenvolvendo_Jogos_com_Pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Guterres Jeffman |  [**oVirt uma solução de virtualização distribuída opensource**](#oVirt_uma_solução_de_virtualização_distribuída_opensource) <br> <span class="label label-success">Principiante</span> <br> Daniel Lara |  [**Micropython para IoT**](#Micropython_para_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Fabio Utzig | 
+| **10:20** |  [**Desenvolvendo Jogos com Pygame**](#Desenvolvendo_Jogos_com_Pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Guterres Jeffman |  [**oVirt uma solução de virtualização distribuída opensource**](#oVirt_uma_solução_de_virtualização_distribuída_opensource) <br> <span class="label label-success">Principiante</span> <br> Daniel Lara |  [**Introdução ao Arduino**](#Introdução_ao_Arduino) <br> <span class="label label-success">Principiante</span> <br> Renato Severo | 
 | **11:10** |  [**Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic**](#Introdução_ao_Spring_Boot_MVC_no_Java_Servlet_Stack_com_a_aplicação_Pet_Clinic) <br> <span class="label label-success">Principiante</span> <br> Marco Aurélio Souza Mangan |  [**Uma Não-Gentil Introdução ao Stream Processing**](#Uma_Não-Gentil_Introdução_ao_Stream_Processing) <br> <span class="label label-warning">Intermediário</span> <br> Julio Biason  |  [**Como ter sucesso com software livre**](#Como_ter_sucesso_com_software_livre) <br> <span class="label label-success">Principiante</span> <br> Cristiano dos Santos Diedrich | 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
 | **13:30** |  [**Reactive Microservices: Event driven architecture**](#Reactive_Microservices:_Event_driven_architecture) <br> <span class="label label-warning">Intermediário</span> <br> Guilherme Kuhn |  [**DevOps - Passado, Presente e Futuro**](#DevOps_-_Passado,_Presente_e_Futuro) <br> <span class="label label-warning">Intermediário</span> <br> Cristiano dos Santos Diedrich |  [**A tecnologia no futuro e nas mãos de quem ela estará**](#A_tecnologia_no_futuro_e_nas_mãos_de_quem_ela_estará) <br> <span class="label label-success">Principiante</span> <br> Jaqueline Trevizan, Neiva Kuyven e Alexandra Cemin | 
@@ -81,13 +81,13 @@ Nesta apresentação conheceremos o oVirt, uma poderosa solução de código abe
 
 [Daniel Lara](https://twitter.com/danniellara) trabalha como Sysadmin e nas horas de folgas contribui com o Projeto Fedora.
 
-### Micropython para IoT 
+### Introdução ao Arduino
 
-Micropython é uma implementação do zero da linguagem Python construída para ser utilizada em microcontroladores. Ela trás o Python, que é uma linguagem fácil, e poderosa para o mundo dos sistemas embarcados, tornando mais acessível a criação de dispositivos por todos. Na apresentação demostrarei como usá-la para desenvolver seu produto, comparando com Python oficial e porque não com Arduino!
+Arduino é uma plataforma de hardware e software abertos. Criada com o intuito de agilizar a prototipação de projetos eletrônicos, facilitando o aprendizado de eletrônica e software. O objetivo da palestra é apresentar a plataforma Arduino e o seu ecossistema. Passando pelas etapas necessárias para desenvolvimento de um aplicação.
 
-### Fabio Utzig 
+### Renato Severo 
 
-[Fabio Utzig](https://github.com/utzig) é Desenvolvedor de software a quase 20 anos, fã de código aberto, focado em sistemas embarcados, foi mantenedor do RTOS aberto ChibiOS/RT desde 2011, atualmente trabalhando em todo ecosistema ao redor do SO para IoT Apache Mynewt.
+[Renato Severo](https://linkedin.com/in/renatossevero/) é Engenheiro de Computação pela Unipampa Bagé. Especialista em Sistemas Embarcados pela UERGS Guaíba. Desenvolvedor de Sistemas Embarcados na DATACOM em Eldorado do Sul.
 
 ### Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic 
 
