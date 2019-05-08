@@ -24,13 +24,13 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 | **9:30** |  [**Como aprender python partindo do zero usando apenas recursos online e livros**](#Como_aprender_python_partindo_do_zero_usando_apenas_recursos_online_e_livros) <br> <span class="label label-success">Principiante</span> <br> Adriano Margarin |  [**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |  [**Sistemas Embarcados e Buildroot**](#Sistemas_Embarcados_e_Buildroot) <br> <span class="label label-success">Principiante</span> <br> Renato Severo | 
 | **10:20** |  [**Desenvolvendo Jogos com Pygame**](#Desenvolvendo_Jogos_com_Pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Guterres Jeffman |  [**oVirt uma solução de virtualização distribuída opensource**](#oVirt_uma_solução_de_virtualização_distribuída_opensource) <br> <span class="label label-success">Principiante</span> <br> Daniel Lara |  [**Introdução ao Arduino**](#Introdução_ao_Arduino) <br> <span class="label label-success">Principiante</span> <br> Renato Severo | 
-| **11:10** |  [**Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic**](#Introdução_ao_Spring_Boot_MVC_no_Java_Servlet_Stack_com_a_aplicação_Pet_Clinic) <br> <span class="label label-success">Principiante</span> <br> Marco Aurélio Souza Mangan |  [**Uma Não-Gentil Introdução ao Stream Processing**](#Uma_Não-Gentil_Introdução_ao_Stream_Processing) <br> <span class="label label-warning">Intermediário</span> <br> Julio Biason  |  [**Como ter sucesso com software livre**](#Como_ter_sucesso_com_software_livre) <br> <span class="label label-success">Principiante</span> <br> Cristiano dos Santos Diedrich | 
+| **11:10** |  [**Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic**](#Introdução_ao_Spring_Boot_MVC_no_Java_Servlet_Stack_com_a_aplicação_Pet_Clinic) <br> <span class="label label-success">Principiante</span> <br> Marco Aurélio Souza Mangan |  [**Uma Não-Gentil Introdução ao Stream Processing**](#Uma_Não-Gentil_Introdução_ao_Stream_Processing) <br> <span class="label label-warning">Intermediário</span> <br> Julio Biason  |  [**Pwned! Meu site foi invadido**](#Pwned!_Meu_site_foi_invadido) <br> <span class="label label-warning">Intermediário</span> <br> Fabio Beneditto | 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
-| **13:30** |  [**Reactive Microservices: Event driven architecture**](#Reactive_Microservices:_Event_driven_architecture) <br> <span class="label label-warning">Intermediário</span> <br> Guilherme Kuhn |  [**DevOps - Passado, Presente e Futuro**](#DevOps_-_Passado,_Presente_e_Futuro) <br> <span class="label label-warning">Intermediário</span> <br> Cristiano dos Santos Diedrich |  [**A tecnologia no futuro e nas mãos de quem ela estará**](#A_tecnologia_no_futuro_e_nas_mãos_de_quem_ela_estará) <br> <span class="label label-success">Principiante</span> <br> Jaqueline Trevizan, Neiva Kuyven e Alexandra Cemin | 
+| **13:30** |  [**Reactive Microservices: Event driven architecture**](#Reactive_Microservices:_Event_driven_architecture) <br> <span class="label label-warning">Intermediário</span> <br> Guilherme Kuhn |  [**DevOps - Passado, Presente e Futuro**](#DevOps_-_Passado,_Presente_e_Futuro) <br> <span class="label label-warning">Intermediário</span> <br> Cristian Bicca |  [**A tecnologia no futuro e nas mãos de quem ela estará**](#A_tecnologia_no_futuro_e_nas_mãos_de_quem_ela_estará) <br> <span class="label label-success">Principiante</span> <br> Jaqueline Trevizan, Neiva Kuyven e Alexandra Cemin | 
 | **14:20** |  [**Desenvolvendo APIs com PHP7 e Zend Expressive**](#Desenvolvendo_APIs_com_PHP7_e_Zend_Expressive) <br> <span class="label label-warning">Intermediário</span> <br> Er Galvão Abbott |  [**Iniciando com Kubernetes**](#Iniciando_com_Kubernetes) <br> <span class="label label-success">Principiante</span> <br> Cristhian Bicca |  [**Implementando um Ransomware em Shell Script**](#Implementando_um_Ransomware_em_Shell_Script) <br> <span class="label label-warning">Intermediário</span> <br> Edson Dino Salvati |
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** |  [**Flutter - Uma nova era**](#Flutter_-_Uma_nova_era) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |  [**Disponibilização de Serviços em IPv6 na UCS - Um Caso Prático**](#Disponibilização_de_Serviços_em_IPv6_na_UCS_-_Um_Caso_Prático) <br> <span class="label label-warning">Intermediário</span> <br> Jerônimo Zucco |  [**Ferramentas OpenSource Essenciais Para Um Ethical Hacker**](#Ferramentas_OpenSource_Essenciais_Para_Um_Ethical_Hacker) <br> <span class="label label-warning">Intermediário</span> <br> Mateus Buogo | 
-| **16:30** |  [**Otimização de imagens para sites**](#Otimização_de_imagens_para_sites) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |  [**Produção de textos com Latex**](#Produção_de_textos_com_Latex) <br> <span class="label label-success">Principiante</span> <br> Samuel Francisco Ferrigo |  [**Pwned! Meu site foi invadido**](#Pwned!_Meu_site_foi_invadido) <br> <span class="label label-warning">Intermediário</span> <br> Fabio Beneditto |
+| **16:30** | [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Otimização de imagens para sites**](#Otimização_de_imagens_para_sites) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |  [**Produção de textos com Latex**](#Produção_de_textos_com_Latex) <br> <span class="label label-success">Principiante</span> <br> Samuel Francisco Ferrigo |
 | **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
 ## Palestras
@@ -105,13 +105,13 @@ Stream Processing é uma área nova, irmã mais nova do Batch Processing e ambos
 
 [Julio Biason](https://functional.cafe/@juliobiason) é Desenvolvedor desde os 12 anos e trabalhou com stream processing durante um ano.
 
-### Como ter sucesso com software livre 
+### Pwned! Meu site foi invadido 
 
-Ao longo de sua vida, quantas vezes você sentiu que havia conquistado o sucesso?  Agora pense, quantas vezes você pensou em desistir?  O objetivo dessa apresentação é trazer uma reflexão sobre o que é sucesso realmente e onde software livre pode ajudar você nessa caminhada.
+Todos sabem que a pressa é inimiga da perfeição, mas não adianta deixar aspectos simples de segurança para depois. Veremos como identificar vulnerabilidades de SQL Injection em aplicações PHP, que são encontradas na maioria dos web sites.
 
-### Cristiano dos Santos Diedrich 
+### Fabio Beneditto 
 
-[Cristiano dos Santos Diedrich](https://www.mundodocker.com.br) é entusiasta Open Source, se meu principal foco é ir atrás de ideias novas e torna-las realidade através de soluções simples e eficientes. É organizador do Meetup Docker Porto Alegre, Meetup DevOps/SRE Porto Alegre e DevOpsDays Porto Alegre.
+[Fabio Beneditto](https://about.me/fabiobeneditto) é Desenvolvedor Web, Old School Nerd, simpatizante de F/OSS, segurança da informação e comunidades em geral. Voluntário Tchelinux desde 2016, e praticante de #mototerapia. 
 
 ### Reactive Microservices: Event driven architecture
 
@@ -121,13 +121,13 @@ Nesta apresentação veremos a implementação da comunicação assincrona entre
 
 [Guilherme Kuhn](https://github.com/gkuhn1) é Engenheiro de Sistemas formado pela Universidade de Caxias do Sul com especialização em Gestão de Projetos de TI pela Westcliff University em Irvine na California. Especialista em arquitetura de microserviços, comunicação assincrona e sistemas altamente escaláveis. Atualmente é Engenheiro de Sistemas na Hallmark Labs em Santa Monica, California.
 
-### DevOps - Passado, Presente e Futuro
+### DevOps
 
 A vida de quem trabalha com tecnologia muda constantemente, a cada dia surgem mais e mais soluções, metodologias e formas de melhorar o nosso trabalho. DevOps é um dos diversos termos que se destacam nos últimos anos, então nada melhor do que conversarmos um pouco sobre ele, entender como ele pode ajudar as empresas atualmente e pensarmos juntos em como será não só DevOps mas sim, nossa vida com DevOps.
 
-### Cristiano dos Santos Diedrich 
+### Cristhian Bicca 
 
-[Cristiano dos Santos Diedrich](https://www.mundodocker.com.br) é entusiasta Open Source, se meu principal foco é ir atrás de ideias novas e torna-las realidade através de soluções simples e eficientes. É organizador do Meetup Docker Porto Alegre, Meetup DevOps/SRE Porto Alegre e DevOpsDays Porto Alegre. 
+[Cristhian Bicca](https://www.mundodocker.com.br) é Entusiasta e praticante da cultura DevOps, acredito que a melhor forma de aprender é compartilhando o conhecimento, então procuro sempre participar de eventos tanto como palestrante como também assistir, quando não estou trabalhando procuro passar o conhecimento através do meu blog.
 
 ### A tecnologia no futuro e nas mãos de quem ela estará 
 
@@ -195,6 +195,14 @@ Nesta palestra teremos uma visão geral sobre ferramentas básicas e essenciais 
 
 [Mateus Buogo](https://www.linkedin.com/in/mateus-buogo-b0084917/) é Grauado em Redes de Computadores pelo Centro Universitário Faculdade de Tecnologia - Caxias do Sul(2011) e especialização em MBA Administração de TI pela Universidade do Vale do Rio dos Sinos(2013). Atualmente é Professor do Centro Universitário Faculdade de Tecnologia e Analista de Suporte. Tem experiência na área de Segurança da Informação e Infraestrutura de Rede.
 
+### Porque Você Deve Aprender Rust 
+
+Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a memória é protegida. Trazendo muitas das funcionalidades de linguagens funcionais, com abstrações de alto nível e performance semelhante a C, Rust é uma linguagem que você realmente deve aprender.
+
+### Julion Biason
+
+[Julio Biason](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust.
+
 ### Otimização de imagens para sites 
 
 Nesta apresentação veremos como otimizar imagens para Web usando Python e flask para reduzir o tempo de carregamento de sites.
@@ -210,14 +218,6 @@ O objetivo da palestra é mostrar os recursos que o sistema Latex oferece para p
 ### Samuel Francisco Ferrigo 
 
 [Samuel Francisco Ferrigo](http://lattes.cnpq.br/0533228733592354) é Mestre em Computação Aplicada pela Unisinos. Possui MBA em Gestão de TI pela UCS. Tecnólogo em Redes de Computadores pela UniFTEC. Trabalha com TI há quase 20 anos.
-
-### Pwned! Meu site foi invadido 
-
-Todos sabem que a pressa é inimiga da perfeição, mas não adianta deixar aspectos simples de segurança para depois. Veremos como identificar vulnerabilidades de SQL Injection em aplicações PHP, que são encontradas na maioria dos web sites.
-
-### Fabio Beneditto 
-
-[Fabio Beneditto](https://about.me/fabiobeneditto) é Desenvolvedor Web, Old School Nerd, simpatizante de F/OSS, segurança da informação e comunidades em geral. Voluntário Tchelinux desde 2016, e praticante de #mototerapia. 
 
 ## Local
 
