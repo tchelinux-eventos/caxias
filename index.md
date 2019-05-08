@@ -230,6 +230,12 @@ Todos sabem que a pressa é inimiga da perfeição, mas não adianta deixar aspe
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2929.752717288708!2d-51.14953390707662!3d-29.16223288154213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951ebcf1db2c22cb%3A0x45140fd1d48bce98!2sBloco+46!5e0!3m2!1sen!2sbr!4v1555982994611!5m2!1sen!2sbr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+## Mapa da UCS
+
+<center>
+  <img src="images/mapa_ucs.jpg">
+</center>
+
 ## Apoio
 
 ### Institucional
