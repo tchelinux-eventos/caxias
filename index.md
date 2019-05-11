@@ -245,6 +245,7 @@ O objetivo da palestra é mostrar os recursos que o sistema Latex oferece para p
 ### Patrocínio
 
 [![Cosmun Softwares](images/logo_cosmun.png)](https://www.cosmunsoftwares.com.br/)
+[![Isabela](images/logo_isabela.png)](http://www.isabela.com.br/)
 
 ### Divulgação
 
